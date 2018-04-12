@@ -1,0 +1,15 @@
+.infoContainer{
+    text-align: center;
+}
+
+.hContainer{
+    max-height: 250px;
+    overflow: auto;
+}
+
+.hItem{
+    border: solid 1px gray;
+    margin-top: 5px;
+    padding: 3px;
+    cursor: pointer;
+}
